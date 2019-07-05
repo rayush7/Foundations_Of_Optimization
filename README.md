@@ -3,5 +3,9 @@ This repository contains matlab code for foundations of optimization course offe
 
 ### Topics Covered
 
-Linear Programming
-Quadratic Programming
+* Linear Programming  
+* Quadratic Programming  
+* Discrete Optimization  
+* Unconstraint Optimization  
+* Constraint Optimization  
+* Least Squares
